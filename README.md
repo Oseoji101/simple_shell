@@ -1,2 +1,2 @@
 0x16. C - Simple Shell
-This is a 
+This is a Shell written in C. 
